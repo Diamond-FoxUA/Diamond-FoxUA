@@ -8,7 +8,7 @@
 
 ---
 
-### 🧠 About Me
+### 👤 About Me
 - 💻 Experienced with **HTML**, **CSS**, and **JavaScript**  
 - 🌱 Currently learning **Node.js** and **Next.js**  
 - 👥 Took part in **team projects at GoIT**, including:  
