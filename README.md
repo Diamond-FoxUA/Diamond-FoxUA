@@ -83,4 +83,3 @@
 <p align="center">
   🎨 <i>"Coding is like painting — the first draft rarely looks as you imagined, but each stroke brings you closer to mastery."</i><br>
   — <b>Dmytro Farbun</b>
-</p>## Hi there 👋
