@@ -12,7 +12,7 @@
 - 💻 Experienced with **HTML**, **CSS**, and **JavaScript**  
 - 🌱 Currently learning **Node.js** and **Next.js**  
 - 👥 Took part in **team projects at GoIT**, including:  
-  - 👜 [EcoTote](#) — an eco-friendly online store  
+  - 👜 [EcoTote](#) — an eco-friendly online bag store  
   - 📚 [Booksy](#) — an interactive landing page for exploring books  
 - 🎮 Currently developing a **Hangman Game** and building a **Simple Chocolate** landing page  
 - 🎯 Goal: to become a **Fullstack Developer** in the upcoming months by completing the GoIT course, preparing for interviews, and building a strong portfolio  
@@ -45,7 +45,7 @@
 
 | 🧠 Project | 🌍 Description | 🧰 Technologies |
 |------------|----------------|----------------|
-| 👜 [EcoTote](#) | Eco-friendly online store with responsive design | HTML, CSS, JS, GitHub Collaboration |
+| 👜 [EcoTote](#) | Eco-friendly online bag store with responsive design | HTML, CSS, JS, GitHub Collaboration |
 | 📚 [Booksy](#) | Interactive landing page for exploring and purchasing books and discovering book-related events | HTML, CSS, JS, GitHub Collaboration |
 | 🎮 [Hangman Game](#) | Word-guessing browser game | JavaScript |
 | 🍫 [Simple Chocolate](#) | Landing page for a chocolate brand | HTML, CSS |
