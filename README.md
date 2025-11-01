@@ -14,7 +14,7 @@
 - 👥 Took part in **team projects at GoIT**, including:  
   - 👜 [EcoTote](https://diamond-foxua.github.io/ecotote/) — an eco-friendly online bag store  
   - 📚 [Booksy](#) — an interactive landing page for exploring books  
-- 🎮 Currently developing a **Hangman Game** and building a **Simple Chocolate** landing page  
+- 🎮 Currently developing a **Hangman** game and building a **Simple Chocolate** landing page  
 - 🎯 Goal: to become a **Fullstack Developer** in the upcoming months by completing the GoIT course, preparing for interviews, and building a strong portfolio  
 - 🌍 **English:** Upper Intermediate (comfortable in communication and technical documentation)
 
@@ -45,12 +45,13 @@
 
 | 🧠 Project | 🌍 Description | 🧰 Technologies |
 |------------|----------------|----------------|
-| 👜 [EcoTote](#) | Eco-friendly online bag store with responsive design | HTML, CSS, JS, GitHub Collaboration |
-| 📚 [Booksy](#) | Interactive landing page for exploring and purchasing books and discovering book-related events | HTML, CSS, JS, GitHub Collaboration |
-| 🎮 [Hangman Game](#) | Word-guessing browser game | JavaScript |
-| 🍫 [Simple Chocolate](#) | Landing page for a chocolate brand | HTML, CSS |
+| 👜 [EcoTote](https://diamond-foxua.github.io/ecotote/) | Eco-friendly online bag store with responsive design | HTML, CSS, JS, GitHub Collaboration |
+| 📚 [Booksy](https://diamond-foxua.github.io/codeV1be-js/) | Interactive landing page for exploring and purchasing books and discovering book-related events | HTML, CSS, JS, GitHub, REST API |
+| 🎮 [Hangman](https://github.com/Diamond-FoxUA/hangman)(⚠️ In Progress) | Word-guessing browser game | JavaScript |
+| 🍫 [Simply Chocolate](https://diamond-foxua.github.io/simple-chocolate/) | Landing page for a chocolate brand | HTML, CSS |
 
-> 🔗 *Repository links will be added soon — stay tuned!*
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" alt="GitHub" style="vertical-align:middle; margin-right:4px;" /> *Repository links:*
+[EcoTote](https://github.com/Diamond-FoxUA/ecotote) | [Booksy](https://github.com/Diamond-FoxUA/codeV1be-js) | [Hangman](https://github.com/Diamond-FoxUA/hangman) | [Simply Chocolate](https://github.com/Diamond-FoxUA/simple-chocolate)
 
 ---
 
