@@ -50,7 +50,7 @@
 | 🎮 [Hangman](https://github.com/Diamond-FoxUA/hangman)(⚠️ In Progress) | Word-guessing browser game | JavaScript |
 | 🍫 [Simply Chocolate](https://diamond-foxua.github.io/simple-chocolate/) | Landing page for a chocolate brand | HTML, CSS |
 
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" alt="GitHub" style="vertical-align:middle; margin-right:4px;" /> *Repository links:*
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25" height="25" alt="GitHub" style="vertical-align:middle; margin-right:4px;" /> *Repository links:*
 [EcoTote](https://github.com/Diamond-FoxUA/ecotote) | [Booksy](https://github.com/Diamond-FoxUA/codeV1be-js) | [Hangman](https://github.com/Diamond-FoxUA/hangman) | [Simply Chocolate](https://github.com/Diamond-FoxUA/simple-chocolate)
 
 ---
