@@ -3,7 +3,7 @@
 <p align="center">
   <b>🎯 Aspiring Fullstack Developer</b><br>
   Passionate about creating clean, efficient, and user-friendly web applications.<br>
-  Currently focusing on <b>Node.js</b> and <b>Next.js</b> to grow into a fullstack developer 🚀
+  Currently focusing on <b>React</b> <b>Node.js</b> and <b>Next.js</b> to grow into a fullstack developer 🚀
 </p>
 
 ---
@@ -46,7 +46,7 @@
 |------------|----------------|----------------|
 | 👜 [**EcoTote**](https://diamond-foxua.github.io/ecotote/) <br> <a href="https://github.com/Diamond-FoxUA/ecotote"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a> | Eco-friendly online bag store with responsive design | <img src="https://img.shields.io/badge/HTML-orange?style=flat-square"/> <img src="https://img.shields.io/badge/CSS-blue?style=flat-square"/> <img src="https://img.shields.io/badge/JS-yellow?style=flat-square"/> |
 | 📚 [**Booksy**](https://diamond-foxua.github.io/codeV1be-js/) <br> <a href="https://github.com/Diamond-FoxUA/codeV1be-js"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a> | Interactive landing page for exploring books and discovering events | <img src="https://img.shields.io/badge/HTML-orange?style=flat-square"/> <img src="https://img.shields.io/badge/CSS-blue?style=flat-square"/> <img src="https://img.shields.io/badge/JS-yellow?style=flat-square"/> <img src="https://img.shields.io/badge/API-REST-green?style=flat-square"/> 🌐 |
-| 🎮 [**Hangman**](https://github.com/Diamond-FoxUA/hangman) 🚧 | Word-guessing browser game | <img src="https://img.shields.io/badge/JS-yellow?style=flat-square"/> <img src="https://img.shields.io/badge/Game_Logic-orange?style=flat-square"/> |
+| 🎮 [**Hangman**](#) <br>  🚧  <br> <a href="https://github.com/Diamond-FoxUA/hangman"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>| Word-guessing browser game | <img src="https://img.shields.io/badge/JS-yellow?style=flat-square"/> <img src="https://img.shields.io/badge/Game_Logic-orange?style=flat-square"/> |
 | 🍫 [**Simply Chocolate**](https://diamond-foxua.github.io/simple-chocolate/) <br> <a href="https://github.com/Diamond-FoxUA/simple-chocolate"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a> | Landing page for a chocolate brand | <img src="https://img.shields.io/badge/HTML-orange?style=flat-square"/> <img src="https://img.shields.io/badge/CSS-blue?style=flat-square"/> |
 
 ---
