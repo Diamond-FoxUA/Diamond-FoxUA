@@ -10,7 +10,7 @@
 
 ### 👤 About Me
 - 💻 Experienced with **HTML**, **CSS**, and **JavaScript**  
-- 🌱 Currently learning **Node.js** and **Next.js**  
+- 🌱 Currently learning **React**  
 - 👥 Took part in **team projects at GoIT**, including:  
   - 👜 [EcoTote](https://diamond-foxua.github.io/ecotote/) — an eco-friendly online bag store  
   - 📚 [Booksy](https://diamond-foxua.github.io/codeV1be-js/) — an interactive landing page for exploring books  
