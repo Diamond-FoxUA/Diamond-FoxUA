@@ -47,7 +47,7 @@
 |------------|----------------|----------------|
 | 👜 [EcoTote](https://diamond-foxua.github.io/ecotote/) | Eco-friendly online bag store with responsive design | HTML, CSS, JS, GitHub Collaboration |
 | 📚 [Booksy](https://diamond-foxua.github.io/codeV1be-js/) | Interactive landing page for exploring and purchasing books and discovering book-related events | HTML, CSS, JS, GitHub, REST API |
-| 🎮 [Hangman](https://github.com/Diamond-FoxUA/hangman)(⚠️ In Progress) | Word-guessing browser game | JavaScript |
+| 🎮 [Hangman](https://github.com/Diamond-FoxUA/hangman) <br> (⚠️ In Progress) | Word-guessing browser game | JavaScript |
 | 🍫 [Simply Chocolate](https://diamond-foxua.github.io/simple-chocolate/) | Landing page for a chocolate brand | HTML, CSS |
 
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25" height="25" alt="GitHub" style="vertical-align:middle; margin-right:4px;" /> *Repository links:*
