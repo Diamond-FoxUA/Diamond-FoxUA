@@ -3,7 +3,7 @@
 <p align="center">
   <b>🎯 Aspiring Fullstack Developer</b><br>
   Passionate about creating clean, efficient, and user-friendly web applications.<br>
-  Currently focusing on <b>React</b> <b>Node.js</b> and <b>Next.js</b> to grow into a fullstack developer 🚀
+  Currently focusing on <b>React</b>, <b>Node.js</b> and <b>Next.js</b> to grow into a fullstack developer 🚀
 </p>
 
 ---
