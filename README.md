@@ -13,7 +13,7 @@
 - 🌱 Currently learning **Node.js** and **Next.js**  
 - 👥 Took part in **team projects at GoIT**, including:  
   - 👜 [EcoTote](https://diamond-foxua.github.io/ecotote/) — an eco-friendly online bag store  
-  - 📚 [Booksy](#) — an interactive landing page for exploring books  
+  - 📚 [Booksy](https://diamond-foxua.github.io/codeV1be-js/) — an interactive landing page for exploring books  
 - 🎮 Currently developing a **Hangman** game and building a **Simple Chocolate** landing page  
 - 🎯 Goal: to become a **Fullstack Developer** in the upcoming months by completing the GoIT course, preparing for interviews, and building a strong portfolio  
 - 🌍 **English:** Upper Intermediate (comfortable in communication and technical documentation)
