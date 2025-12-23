@@ -42,8 +42,8 @@ I value clean code, teamwork, and continuous improvement.
 Landing page for a chocolate brand with adaptive layout.
 
 **Tech:** HTML, CSS  
-🌐 Live demo: https://diamond-foxua.github.io/simple-chocolate/  
-🔗 Repository: https://github.com/Diamond-FoxUA/simple-chocolate
+🌐 Live demo: https://diamond-foxua.github.io/simply-chocolate/  
+🔗 Repository: https://github.com/Diamond-FoxUA/simply-chocolate
 
 ---
 
