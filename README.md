@@ -1,143 +1,120 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#58a6ff;">Dmytro Farbun</span></h1>
 
 <p align="center">
-<b>Fullstack Developer</b><br>
-React · Next.js · Node.js · TypeScript
+<b>Frontend Developer</b><br>
+React · Next.js · TypeScript · UI/UX Specialist
 </p>
 
 <p align="center">
-Building modern web applications with clean architecture, scalable APIs, and responsive interfaces.
+Building responsive and modern web interfaces with a focus on User Experience, Performance, and Clean Architecture.
 </p>
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
-Fullstack Developer focused on building modern web applications with **React, Next.js, and Node.js**.
+I am a Frontend Developer dedicated to building polished, user-centric web applications using React, Next.js, and TypeScript.
 
-I enjoy working on real products where frontend and backend interact: building REST APIs, implementing authentication, managing application state, and creating responsive interfaces.
+While my primary expertise is in the user layer, my background in full-stack development gives me a unique advantage: I deeply understand API lifecycles and backend architecture, allowing me to build more robust, "production-ready" frontends that handle complex data and edge cases with ease.
+
+Currently deepening my expertise in Frontend Performance Optimization, Advanced React Patterns, and Scalable State Management.
 
 ---
 
 # ⚙️ Tech Stack
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
-</p>
-
 ### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,sass" />
 </p>
 
-### State & Data
-<p>
-<img src="https://skillicons.dev/icons?i=redux" />
+### State Management & Data Fetching
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=redux" />
 </p>
 
-`React Query` · `Zustand`
-
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs" />
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-18181B?style=for-the-badge" />
 </p>
 
-`REST API` · `Authentication` · `Authorization`
-
-### Database
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
+### Backend Knowledge
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
-
-`Mongoose`
 
 ### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel" />
 </p>
 
-`Swagger`
+### Additional
+<p align="left">
+  <img src="https://img.shields.io/badge/App_Router-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Responsive_Design-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
 ---
 
 # 🚀 Featured Projects
 
-### 🌍 Podorozhnyky — Travel Social Platform
+### 🌍 Podorozhnyky — Travel Social Dashboard
 
-Fullstack platform where users can publish travel stories, explore travellers, and save articles.
+Advanced Frontend Architecture with Next.js 15
 
-**Tech:** Next.js, React, TypeScript, Node.js, Express, MongoDB
+**Tech:** Next.js (App Router), React, TypeScript, Zustand
 
-**Features**
+### Frontend Highlights:
 
-- user authentication and protected routes  
-- create, edit, and publish travel stories  
-- bookmarking system for saving articles  
-- server-side pagination and dynamic data loading  
-- REST API for users, stories, and categories  
-- profile pages with user stories and saved content  
-- form validation using Formik and Yup  
-- loading states, error handling, and toast notifications  
+- Engineered a complex multi-page dashboard with a focus on Server-Side Rendering (SSR) and SEO.
+- Built global state management with **Zustand** for predictable client-side interactions.
+- Implemented secure middleware-protected routes and authentication flows.
+- Created reusable UI components with a strict focus on responsive, mobile-first design.
+- Optimized data flow and UI consistency across server and client components.
 
 🌐 Live Demo  
-https://codev1be-social-web.vercel.app
+🔗 Repository
 
-🔗 Repository  
-https://github.com/Diamond-FoxUA/codev1be-social-web
+### 📚 Booksy — Interactive E-Commerce UI
+*Responsive UX & Dynamic Data Integration*
+
+**Tech:** HTML5, CSS3, JavaScript (ES6+), REST API, Swiper.js
+
+**Frontend Highlights:**
+- Transformed high-fidelity Figma designs into a **fully responsive** interactive landing page.
+- Managed **dynamic content rendering** by integrating external REST APIs.
+- Implemented interactive UI elements, including complex sliders, carousels, and modal systems.
+
+🌐 [Live Demo](https://github.io)  
+🔗 [Repository](https://github.com)
 
 ---
 
-### 📚 Booksy
+### 👜 EcoTote — Modern Storefront
+*Lightweight & Semantic UI Development*
 
-Interactive landing page for discovering books and events.
+**Tech:** HTML5, CSS3, JavaScript
 
-**Tech:** HTML, CSS, JavaScript, REST API
+**Frontend Highlights:**
+- Built with a focus on **Semantic HTML** and accessibility (A11y).
+- Implemented a 100% responsive grid system using modern CSS layout techniques.
+- Optimized for performance and clean, maintainable stylesheet architecture.
 
-**Features**
-
-- multi-section landing page layout  
-- REST API integration for dynamic content  
-- interactive sliders and UI components  
-- responsive layout for multiple screen sizes  
-- dynamic content rendering with JavaScript  
-
-🌐 Live Demo  
-https://diamond-foxua.github.io/codeV1be-js/
-
-🔗 Repository  
-https://github.com/Diamond-FoxUA/codeV1be-js
+🌐 [Live Demo](https://github.io)  
+🔗 [Repository](https://github.com)
 
 ---
 
-### 👜 EcoTote
-
-Eco-friendly online bag store with responsive layout.
-
-**Tech:** HTML, CSS, JavaScript
-
-**Features**
-
-- responsive and adaptive layout  
-- product catalog layout  
-- semantic HTML structure  
-- mobile-first responsive design  
-
-🌐 Live Demo  
-https://diamond-foxua.github.io/ecotote/
-
-🔗 Repository  
-https://github.com/Diamond-FoxUA/ecotote
-
----
 
 # 🌍 Languages
 
 Ukrainian — Native  
-English — Upper-Intermediate
+English — Upper-Intermediate (B2)
 
 ---
 
-# 📬 Contact
+# 📬 Let's Connect
 
 <p align="center">
 
@@ -149,7 +126,7 @@ English — Upper-Intermediate
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-<a href="mailto:dimofarb@mail.com ">
+<a href="mailto:dimofarb@mail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
