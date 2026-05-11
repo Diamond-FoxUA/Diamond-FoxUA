@@ -15,7 +15,7 @@ Building responsive and modern web interfaces with a focus on User Experience, P
 
 I am a **Fullstack Developer** with a primary focus on building polished, user-centric web applications using **React, Next.js, and TypeScript**.
 
-While I am capable of architecting entire applications from the database up, **I am currently dedicating my expertise to the Frontend layer.** My background in backend development (Node.js, MongoDB, Prisma) gives me a unique edge—I don't just build UIs; I build "API-aware" interfaces that are robust, scalable, and easy for backend teams to integrate with.
+While I am capable of architecting entire applications from the database up, **I am currently dedicating my expertise to the Frontend layer.** My background in backend development (Node.js, Express.js, MongoDB) gives me a unique edge—I don't just build UIs; I build "API-aware" interfaces that are robust, scalable, and easy for backend teams to integrate with.
 
 Currently deepening my expertise in **Frontend Performance Optimization**, **Advanced React Patterns**, and **Scalable State Management**.
 
@@ -45,7 +45,7 @@ Currently deepening my expertise in **Frontend Performance Optimization**, **Adv
 
 ### Backend Knowledge
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 <p align="left">
