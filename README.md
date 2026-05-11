@@ -73,8 +73,8 @@ Advanced Frontend Architecture with Next.js 15
 - Created reusable UI components with a strict focus on responsive, mobile-first design.
 - Optimized data flow and UI consistency across server and client components.
 
-🌐 Live Demo  
-🔗 Repository
+🌐 [Live Demo](https://codev1be-social-web.vercel.app)  
+🔗 [Repository](https://github.com/Diamond-FoxUA/codev1be-social-web)
 
 ---
 
@@ -88,8 +88,8 @@ Advanced Frontend Architecture with Next.js 15
 - Managed **dynamic content rendering** by integrating external REST APIs.
 - Implemented interactive UI elements, including complex sliders, carousels, and modal systems.
 
-🌐 [Live Demo](https://github.io)  
-🔗 [Repository](https://github.com)
+🌐 [Live Demo](https://diamond-foxua.github.io/codeV1be-js/)  
+🔗 [Repository](https://github.com/Diamond-FoxUA/codeV1be-js)
 
 ---
 
@@ -103,8 +103,8 @@ Advanced Frontend Architecture with Next.js 15
 - Implemented a 100% responsive grid system using modern CSS layout techniques.
 - Optimized for performance and clean, maintainable stylesheet architecture.
 
-🌐 [Live Demo](https://github.io)  
-🔗 [Repository](https://github.com)
+🌐 [Live Demo](https://diamond-foxua.github.io/ecotote/)  
+🔗 [Repository](https://github.com/Diamond-FoxUA/ecotote)
 
 ---
 
