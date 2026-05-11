@@ -76,6 +76,8 @@ Advanced Frontend Architecture with Next.js 15
 🌐 Live Demo  
 🔗 Repository
 
+---
+
 ### 📚 Booksy — Interactive E-Commerce UI
 *Responsive UX & Dynamic Data Integration*
 
