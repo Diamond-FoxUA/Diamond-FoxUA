@@ -6,7 +6,7 @@ React · Next.js · Node.js · TypeScript
 </p>
 
 <p align="center">
-Building responsive and modern web interfaces with a focus on User Experience, Performance, and Clean Architecture.
+Building responsive and modern web interfaces with a strict focus on User Experience, Performance, Web Accessibility (A11y), and Clean Architecture.
 </p>
 
 ---
@@ -15,9 +15,9 @@ Building responsive and modern web interfaces with a focus on User Experience, P
 
 I am a **Fullstack Developer** with a primary focus on building polished, user-centric web applications using **React, Next.js, and TypeScript**.
 
-While I am capable of architecting entire applications from the database up, **I am currently dedicating my expertise to the Frontend layer.** My background in backend development (Node.js, Express.js, MongoDB) gives me a unique edge—I don't just build UIs; I build "API-aware" interfaces that are robust, scalable, and easy for backend teams to integrate with.
+While I am capable of architecting entire applications from the database up, **I am currently dedicating my expertise to the Frontend layer.** My background in backend development (Node.js, Express.js, MongoDB, Prisma, PostgreSQL) gives me a unique edge — I don't just build UIs; I build "API-aware" interfaces that are robust, scalable, and easy for backend teams to integrate with.
 
-Currently deepening my expertise in **Frontend Performance Optimization**, **Advanced React Patterns**, and **Scalable State Management**.
+Currently deepening my expertise in **Web Accessibility (A11y/ARIA)**, **SEO Optimization**, **Feature-Driven Architectural Design**, and **Advanced Server Components Patterns**.
 
 ---
 
@@ -73,49 +73,50 @@ Currently deepening my expertise in **Frontend Performance Optimization**, **Adv
 
 # 🚀 Featured Projects
 
-### 🌍 Podorozhnyky — Travel Social Dashboard
+### 🐾 PetLove — Pet Care Web Application
+*Advanced Core Web Vitals, A11y & Feature-Driven Layout*
 
-Advanced Frontend Architecture with Next.js 15
+**Tech:** Next.js 16 (App Router), React 19, Redux Toolkit, React Hook Form, Yup, Axios, Cookies, Sonner
 
-**Tech:** Next.js (App Router), React, TypeScript, Zustand
+- Scaled folder maintainability by implementing **Feature-Driven Architecture** for precise domain isolation.
+- Reached high-end **SEO and Accessibility (A11y)** scores via semantic layouts, programmatic header-section mapping, strict screen-reader handling (`aria-label`, `aria-hidden`), and native HTML `<dialog>` components.
+- Engineered optimized rendering through **React Server Components (RSC)** for public layouts alongside client-side state fetching with **Redux Toolkit**.
+- Handled advanced validation schemas and secure session management via cookie serialization.
 
-- Engineered a complex multi-page dashboard with a focus on Server-Side Rendering (SSR) and SEO.
-- Built global state management with **Zustand** for predictable client-side interactions.
-- Implemented secure middleware-protected routes and authentication flows.
-- Created reusable UI components with a strict focus on responsive, mobile-first design.
-- Optimized data flow and UI consistency across server and client components.
-- Integrated a robust MongoDB backend to handle persistent user data and travel story lifecycles.
-
-🌐 [Live Demo](https://codev1be-social-web.vercel.app)  
-🔗 [Repository](https://github.com/Diamond-FoxUA/codev1be-social-web)
+🌐 [Live Demo](https://petlove-web-app.vercel.app) <br />
+🔗 [Repository](https://github.com/Diamond-FoxUA/petlove-web-app)
 
 ---
 
-### 📚 Booksy — Interactive E-Commerce UI
-*Responsive UX & Dynamic Data Integration*
+### 📋 Google Forms Lite Clone
+*Monorepo Workspace & Relational DB Modeling*
 
-**Tech:** HTML5, CSS3, JavaScript (ES6+), REST API, Swiper.js
+**Tech:** React, React Router, Tailwind CSS, TanStack Query, Express.js, Prisma, PostgreSQL
 
-- Transformed high-fidelity Figma designs into a **fully responsive** interactive landing page.
-- Managed **dynamic content rendering** by integrating external REST APIs.
-- Implemented interactive UI elements, including complex sliders, carousels, and modal systems.
+- Developed an interactive, dynamic form builder and live form filler with instant response validation and analysis components.
+- Structured the project codebase as a scalable **monorepo layout utilizing npm/pnpm workspaces** for clean package management.
+- Designed and migrated a relational database schema using **PostgreSQL** hosted on Neon, managed entirely via **Prisma ORM**.
+- Handled custom, adaptive styling layout rules entirely from scratch with Tailwind CSS.
 
-🌐 [Live Demo](https://diamond-foxua.github.io/codeV1be-js/)  
-🔗 [Repository](https://github.com/Diamond-FoxUA/codeV1be-js)
+🌐 [Live Demo](https://google-forms-lite-client-pied.vercel.app) <br />
+🔗 [Repository](https://github.com/Diamond-FoxUA/google-forms-lite)
 
 ---
 
-### 👜 EcoTote — Modern Storefront
-*Lightweight & Semantic UI Development*
+### 🧠 Psychologist App
+*Efficient Server-State Management & UI Dynamics*
 
-**Tech:** HTML5, CSS3, JavaScript
+**Tech:** React, React Router, TanStack Query, Firebase, Tailwind CSS
 
-- Built with a focus on **Semantic HTML** and accessibility (A11y).
-- Implemented a 100% responsive grid system using modern CSS layout techniques.
-- Optimized for performance and clean, maintainable stylesheet architecture.
+- Engineered highly efficient server-state management using **TanStack Query** to optimize dynamic data fetching and background caching.
+- Developed comprehensive client-side data management features, including multi-criteria sorting, filtering, and seamless pagination.
+- Integrated persistent user experience capabilities allowing clients to manage bookmarks via `localStorage`.
+- Implemented secure user authentication paths and built an interactive light/dark theme switcher.
 
-🌐 [Live Demo](https://diamond-foxua.github.io/ecotote/)  
-🔗 [Repository](https://github.com/Diamond-FoxUA/ecotote)
+🌐 [Live Demo](https://psychologist-app-lyart.vercel.app) <br />
+🔗 [Repository](https://github.com/Diamond-FoxUA/psychologist-app)
+
+---
 
 # 🌍 Languages
 
