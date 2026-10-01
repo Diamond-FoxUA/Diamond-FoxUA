@@ -73,6 +73,24 @@ Currently deepening my expertise in **Web Accessibility (A11y/ARIA)**, **SEO Opt
 
 # 🚀 Featured Projects
 
+### 🌿 EcoTote — Premium Eco-Commerce Single Page Application
+*Efficient Server-State Management, Bot Protection & UI Dynamics*
+
+**Tech:** Next.js, TypeScript, Zod, React Hook Form, Tailwind CSS, Sonner
+
+- Engineered a secure backend processing system using **Next.js Server Actions** integrated with a **Telegram Bot API** for real-time order and message notifications.
+- Implemented an **invisible anti-spam honeypot interceptor** in contact forms to block automated bot inputs on the server side without disrupting the user experience or wasting API limits.
+- Designed a **universal type-safe i18n infrastructure** combining Zod schema validation with a custom global JSON dictionary context for dynamic, multilingual error tracking.
+- Optimized application accessibility (**A11y**) using native HTML5 dialog elements, keyboard focus traps (`Esc` dismissal), and modern `scrollIntoView` API for smooth page navigation.
+
+🌐 [Live Demo](https://ecotote-ecommerce-landing.vercel.app/) <br />
+🔗 [Repository](https://github.com/Diamond-FoxUA/ecotote-ecommerce-landing) <br />
+📲 [Notification Bot](https://t.me/ecotote_notifications_demo)
+
+---
+
+---
+
 ### 🐾 PetLove — Pet Care Web Application
 *Advanced Core Web Vitals, A11y & Feature-Driven Layout*
 
@@ -100,21 +118,6 @@ Currently deepening my expertise in **Web Accessibility (A11y/ARIA)**, **SEO Opt
 
 🌐 [Live Demo](https://google-forms-lite-client-pied.vercel.app) <br />
 🔗 [Repository](https://github.com/Diamond-FoxUA/google-forms-lite)
-
----
-
-### 🧠 Psychologist App
-*Efficient Server-State Management & UI Dynamics*
-
-**Tech:** React, React Router, TanStack Query, Firebase, Tailwind CSS
-
-- Engineered highly efficient server-state management using **TanStack Query** to optimize dynamic data fetching and background caching.
-- Developed comprehensive client-side data management features, including multi-criteria sorting, filtering, and seamless pagination.
-- Integrated persistent user experience capabilities allowing clients to manage bookmarks via `localStorage`.
-- Implemented secure user authentication paths and built an interactive light/dark theme switcher.
-
-🌐 [Live Demo](https://psychologist-app-lyart.vercel.app) <br />
-🔗 [Repository](https://github.com/Diamond-FoxUA/psychologist-app)
 
 ---
 
