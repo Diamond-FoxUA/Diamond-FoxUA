@@ -7,7 +7,7 @@ React · Next.js · Node.js · TypeScript
 
 ---
 
-# 🧠 About Me
+# 🧑‍💻 About Me
 
 I am a **Full-Stack Developer** focused on building high-performance, secure, and polished web applications using **React, Next.js, and TypeScript**.
 
