@@ -13,17 +13,21 @@ Building responsive and modern web interfaces with a strict focus on User Experi
 
 # 🧠 About Me
 
-I am a **Fullstack Developer** with a primary focus on building polished, user-centric web applications using **React, Next.js, and TypeScript**.
+I am a **Full-Stack Developer** focused on building high-performance, secure, and polished web applications using **React, Next.js, and TypeScript**.
 
-While I am capable of architecting entire applications from the database up, **I am currently dedicating my expertise to the Frontend layer.** My background in backend development (Node.js, Express.js, MongoDB, Prisma, PostgreSQL) gives me a unique edge — I don't just build UIs; I build "API-aware" interfaces that are robust, scalable, and easy for backend teams to integrate with.
+I build web platforms by connecting responsive frontends with solid backend logic. Using a modern full-stack ecosystem (**Node.js, Prisma ORM, PostgreSQL/Neon, and MongoDB**), I integrate production-ready features, secure Server Actions, custom admin dashboards, and functional APIs. My goal is to build seamless, "API-aware" interfaces where frontend and backend work as a single unified system.
 
-Currently deepening my expertise in **Web Accessibility (A11y/ARIA)**, **SEO Optimization**, **Feature-Driven Architectural Design**, and **Advanced Server Components Patterns**.
+**Core Areas of Focus:**
+* **Architecture:** Feature-Driven Architectural Design (FDD) & Clean Code Structures
+* **Performance:** Advanced Server Components Patterns & Server-Side Rendering (SSR)
+* **Optimization:** SEO Semantic Structures & Web Accessibility (A11y/ARIA) with full keyboard navigation
+* **Security:** Secure Route Handlers, Server Actions validation, and environment lockdown
 
 ---
 
 # ⚙️ Tech Stack
 
-### Frontend Excellence (Primary Focus)
+### Frontend Excellence
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass" />
 </p>
@@ -45,7 +49,7 @@ Currently deepening my expertise in **Web Accessibility (A11y/ARIA)**, **SEO Opt
 
 ### Backend Knowledge
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,postgresql" />
 </p>
 
 <p align="left">
@@ -58,15 +62,6 @@ Currently deepening my expertise in **Web Accessibility (A11y/ARIA)**, **SEO Opt
 ### Tools & Workflow
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,figma,vercel,postman" />
-</p>
-
----
-
-### Specializations
-<p align="left">
-  <img src="https://img.shields.io/badge/SSR_with_Next.js-000000?style=for-the-badge&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/Responsive_Design-1E90FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API_Integration-FF6B6B?style=for-the-badge" />
 </p>
 
 ---
