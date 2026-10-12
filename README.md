@@ -5,10 +5,6 @@
 React · Next.js · Node.js · TypeScript
 </p>
 
-<p align="center">
-Building responsive and modern web interfaces with a strict focus on User Experience, Performance, Web Accessibility (A11y), and Clean Architecture.
-</p>
-
 ---
 
 # 🧠 About Me
