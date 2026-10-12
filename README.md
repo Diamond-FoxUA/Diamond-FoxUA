@@ -80,8 +80,6 @@ I build web platforms by connecting responsive frontends with solid backend logi
 
 ---
 
----
-
 ### 🐾 PetLove — Pet Care Web Application
 *Advanced Core Web Vitals, A11y & Feature-Driven Layout*
 
